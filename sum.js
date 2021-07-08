@@ -3,6 +3,11 @@ function juas(num1) {
 }
 
 function sum(num1, num2) {
+    const a = 1;
+    if (num1 < 0) {
+        return a;
+    }
+
     return juas(num1) + juas(num2);
 }
 
