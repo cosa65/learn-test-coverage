@@ -1,0 +1,1 @@
+[![codecov](https://codecov.io/gh/cosa65/learn-test-coverage/branch/master/graph/badge.svg?token=1B8JSLDLUE)](https://codecov.io/gh/cosa65/learn-test-coverage)
