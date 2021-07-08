@@ -1,3 +1,6 @@
+codecov:
+  require_ci_to_pass: yes
+
 coverage:
   range: 80..100
   round: down
@@ -16,3 +19,4 @@ coverage:
     patch:
       default:
         enabled: no
+  
